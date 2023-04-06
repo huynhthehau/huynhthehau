@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Le singe connecté!](https://i.makeagif.com/media/3-08-2016/1qcnOU.gif) ![Le singe connecté!](https://media.tenor.com/XO2IvO1LGegAAAAC/champs-macaco-digitando.gif)
+![Le singe connecté!](https://i.makeagif.com/media/3-08-2016/1qcnOU.gif) 
+![Le singe connecté!](https://media.tenor.com/XO2IvO1LGegAAAAC/champs-macaco-digitando.gif)
